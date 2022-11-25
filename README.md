@@ -9,7 +9,7 @@ git clone https://github.com/AlexGMarinho/link-shortener.git
 After cloning the repository content, access the created directory and install the dependencies:
 
 ```
-cd sales-api
+cd link-shortener
 
 yarn
 
